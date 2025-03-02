@@ -43,9 +43,9 @@ The **Workout Fitness Tracker Dashboard** is an interactive and insightful visua
 ---
 
 ## 📖 Learning & Takeaways
-✔️ **Importance of KPIs:** Understanding which metrics truly impact fitness (like **VO2 Max & Calories Per Minute**) made a huge difference.
-✔️ **Data Storytelling:** A great dashboard isn’t just about numbers; it’s about making data intuitive and actionable.
-✔️ **UX & Design:** Clear visualizations, slicers, and a structured layout enhance user engagement.
+✔️**Importance of KPIs:** Understanding which metrics truly impact fitness (like **VO2 Max & Calories Per Minute**) made a huge difference.
+✔️**Data Storytelling:** A great dashboard isn’t just about numbers; it’s about making data intuitive and actionable.
+✔️**UX & Design:** Clear visualizations, slicers, and a structured layout enhance user engagement.
 
 ---
 
